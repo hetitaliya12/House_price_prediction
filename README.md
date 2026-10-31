@@ -3,6 +3,8 @@
 ## Project Description
 House Price Prediction is an AI and Machine Learning project designed to predict house prices using available housing data.
 
+
+
 ## Project Files
 - House_price1.csv - Dataset
 - House_price_prediction2.py - Main Python file
